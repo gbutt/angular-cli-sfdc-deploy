@@ -1,7 +1,7 @@
 {
   "name": "angular-cli-sfdc-deploy",
   "description": "deploy your app to Salesforce as a static resource via angular-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": "https://github.com/gbutt/angular-cli-sfdc-deploy",
   "engines": {
     "node": ">= 6.9.0"
