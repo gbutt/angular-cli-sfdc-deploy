@@ -1,0 +1,27 @@
+{
+  "name": "angular-cli-sfdc-deploy",
+  "description": "deploy your app to Salesforce as a static resource via angular-cli",
+  "version": "0.1.0",
+  "repository": "https://github.com/gbutt/angular-cli-sfdc-deploy",
+  "engines": {
+    "node": ">= 6.9.0"
+  },
+  "author": "Greg Butt <gbutt@rallydev.com>",
+  "license": "MIT",
+  "devDependencies": {},
+  "keywords": [
+    "ember-addon"
+  ],
+  "dependencies": {
+    "angular-cli": "^1.0.0-beta.19-3",
+    "archiver": "^1.2.0",
+    "fs-extra": "^1.0.0",
+    "inquirer": "^1.2.2",
+    "jsforce-metadata-tools": "^1.2.2",
+    "xml2js": "^0.4.17"
+  },
+  "temp": {
+    "promise": "^7.1.1",
+    "jsforce": "^1.7.1"
+  }
+}
